@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @mauriciobge
-- 👀 I’m interested in github and gnu linux 
-- 🌱 I’m currently learning linux os
-- 💞️ I’m looking to collaborate on efes2
-- 📫 How to reach me mauri.moreno.vargas@gmail.com
+- 📫 How to reach me mauriciomorenobge@gmail.com
 
 <!---
 mauriciobge/mauriciobge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
