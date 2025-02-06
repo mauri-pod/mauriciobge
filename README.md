@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mauriciobge
+⁹- 👋 Hi, I’m @mauriciobge
 - 👀 I’m interested in github and gnu linux 
 - 🌱 I’m currently learning linux os
-- 💞️ I’m looking to collaborate on efes2
+- 💞️ I’m looking to collaborate on efe2
 - 📫 How to reach me mauri.moreno.vargas@gmail.com
 
 <!---
